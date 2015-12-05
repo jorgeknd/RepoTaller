@@ -1,1 +1,2 @@
-Este es mi archivo de texto del taller de git ;D
+Este es mi archivo de texto del taller de git :P
+nueva linea de texto :D
